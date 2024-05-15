@@ -1,7 +1,6 @@
 
-
 <div>
-  <img aling="center" height="440em" width="1800em" src="https://github.com/PyMemory/PyMemory/assets/167276869/3588c7f1-c47c-4ff1-83ed-b86155a83464" />
+  <img aling="center" height="440em" width="1800em" src="https://github.com/PyMemory/.github/assets/167276869/a5deb7cf-11c2-4341-ba6b-ec066e2bc61d" />
     </div>
 
 
